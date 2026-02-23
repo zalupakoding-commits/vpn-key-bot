@@ -1,0 +1,16 @@
+# Requirements for VPN Key Bot
+
+# Telegram Bot API dependency
+python-telegram-bot==13.7
+
+# FastAPI for the admin panel
+fastapi==0.68.1
+
+# PostgreSQL database adapter
+asyncpg==0.23.0
+
+# Logging
+logging==0.5.1.2
+
+# CryptoBot integration (example)
+pycryptodome==3.10.1
